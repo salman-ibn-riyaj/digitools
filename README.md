@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛒 Assignment-6
+# 🛒 DigiTools
 
 ### A modern digital marketplace to discover and buy premium digital tools — fast, clean, and beautifully designed.
 
@@ -13,7 +13,7 @@
 
 ## 📖 About The Project
 
-**Assignment-6** is a sleek digital product store built with React. Users can browse a curated collection of premium digital tools, add them to cart, and enjoy a smooth shopping experience — all powered by local JSON data and a modern UI stack.
+**DigiTools** is a sleek digital product store built with React. Users can browse a curated collection of premium digital tools, add them to cart, and enjoy a smooth shopping experience — all powered by local JSON data and a modern UI stack.
 
 ---
 
@@ -43,7 +43,7 @@
 git clone https://github.com/your-username/assignment-6.git
 
 # Navigate into the project
-cd assignment-6
+cd DigiTools
 
 # Install dependencies
 npm install
